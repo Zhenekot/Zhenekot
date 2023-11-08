@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhenekot&show_icons=true" alt="Zhenekot" />
-</p>
-
 ## 📊 Моя статистика GitHub
 
 <p align="center">
