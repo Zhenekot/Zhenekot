@@ -34,9 +34,9 @@
 ## ⭐ GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Ваш_логин]&layout=compact" alt="[Ваш_логин]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhenekot&layout=compact" alt="Zhenekot" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Ваш_логин]" alt="[Ваш_логин]" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhenekot" alt="Zhenekot" />
 </p>
