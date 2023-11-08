@@ -8,7 +8,7 @@
   <a href="https://github.com/Zhenekot?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Zhenekot" alt="Репозитории GitHub" />
   </a>
-  <a href="https://github.com/Zhenekot]">
+  <a href="https://github.com/Zhenekot">
     <img src="https://badges.pufler.dev/commits/monthly/Zhenekot" alt="Коммиты в месяц" />
   </a>
 </p>
