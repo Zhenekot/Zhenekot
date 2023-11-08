@@ -31,12 +31,6 @@
 | Assembly               |                     |                     |                    |                
 
 
-## ⭐ GitHub статистика
+ ### ⭐ My Stats :
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhenekot&layout=compact" alt="Zhenekot" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhenekot" alt="Zhenekot" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhenekot&theme=default) 
